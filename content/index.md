@@ -9,5 +9,6 @@ The generator script does the following:
 2.  Converts the Markdown to HTML.
 3.  Injects the HTML content into a template.
 4.  Saves the final result as `.html` files in the `dist/` directory.
+5. Eiei kee hee
 
-You can check out the source code on my [GitHub profile](https://github.com/your-username)!
+You can check out the source code on my [GitHub profile](https://github.com/krittaphato3)!
